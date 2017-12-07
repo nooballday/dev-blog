@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/nooballday/"/>
+  <link href="https://github.com/nooballday/dev-blog.git/"/>
   <updated>2017-12-07T14:34:35.360Z</updated>
-  <id>https://github.com/nooballday/</id>
+  <id>https://github.com/nooballday/dev-blog.git/</id>
   
   <author>
     <name>Achmad Naufal</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/nooballday/2017/12/07/hello-world/"/>
-    <id>https://github.com/nooballday/2017/12/07/hello-world/</id>
+    <link href="https://github.com/nooballday/dev-blog.git/2017/12/07/hello-world/"/>
+    <id>https://github.com/nooballday/dev-blog.git/2017/12/07/hello-world/</id>
     <published>2017-12-07T14:26:45.179Z</published>
     <updated>2017-12-07T14:34:35.360Z</updated>
     
