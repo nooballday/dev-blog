@@ -3,6 +3,14 @@
   
     
     <entry>
+      <title><![CDATA[realm-java]]></title>
+      <url>/dev-blog/2017/12/16/realm-java/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Using Realm.io in you Android Project]]></title>
       <url>/dev-blog/2017/12/16/realm-io-java-1/</url>
       <content type="html"><![CDATA[<p>For so many years SQLite has been numer 1 choice for local database, despite some <a href="http://objectbox.io/sqlite-alternatives/" target="_blank" rel="noopener">alternatives</a>, SQLite has manage its way to developer’s heart. There are so many reasons to use a local database. One of the newest use case of why you would implement offline database in your application is if you are using <a href="http://nosql-database.org" target="_blank" rel="noopener">NoSQL</a> database.  NoSQL doesn’t support query (as it says in the name) for when you fetch data from your server, There are so many ways to do it one of them is using <a href="https://www.algolia.com" target="_blank" rel="noopener">Algolia</a> which is a search engine API, or using Local database which i will show you a little how to do just that.<br><strong><h1>Realm.Io</h1></strong></p>

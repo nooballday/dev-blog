@@ -6,7 +6,7 @@
   <link href="/dev-blog/atom.xml" rel="self"/>
   
   <link href="https://nooballday.github.io/dev-blog/"/>
-  <updated>2017-12-16T16:03:49.512Z</updated>
+  <updated>2017-12-16T16:06:57.549Z</updated>
   <id>https://nooballday.github.io/dev-blog/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>realm-java</title>
+    <link href="https://nooballday.github.io/dev-blog/2017/12/16/realm-java/"/>
+    <id>https://nooballday.github.io/dev-blog/2017/12/16/realm-java/</id>
+    <published>2017-12-16T16:06:57.000Z</published>
+    <updated>2017-12-16T16:06:57.549Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Using Realm.io in you Android Project</title>
